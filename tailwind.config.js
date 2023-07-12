@@ -10,12 +10,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'sable':'#F26634',
-        'graySable1':'#667085'
+        nut: "#FF5D29",
+        graySable1: "#667085",
       },
-      
     },
-    
-  },  
+  },
   plugins: [],
-}
+};
